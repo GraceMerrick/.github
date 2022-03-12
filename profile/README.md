@@ -2,7 +2,7 @@
 <h3 align="center">A All Purpose Discord Bot</h3>
 
 - 😄 Pronouns: He/Him (Yes I Gave The Bot Pronouns)
-- 🤖 SidBot: [Invite Me!](https://discord.com/api/oauth2/authorize?client_id=878341898417348618&permissions=8&scope=bot%20applications.commands)
+- 🤖 Miracle Bot: [Invite Me!](https://discord.com/api/oauth2/authorize?client_id=878341898417348618&permissions=8&scope=bot%20applications.commands)
 - ✅ [Click me](https://discord.gg/nkYVjxNNgQ)
 
 ---
