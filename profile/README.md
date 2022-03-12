@@ -33,4 +33,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img align="left" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img aling="right" alt"Sir Blob" src="https://github-readme-stats.vercel.app/api?username=GamerBoss101&show_icons=true&locale=en&theme=dark&layout=compact" />
